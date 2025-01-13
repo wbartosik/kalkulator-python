@@ -5,8 +5,7 @@ Prosty kalkulator w Pythonie
 ## Jak uruchomić?
 1. Sklonuj repozytorium:
    ```bash
-
-git clone https://github.com/wbartosik/kalkulator-python.git
+   git clone https://github.com/wbartosik/kalkulator-python.git
 
 2.Przejdź do katalogu:
 cd kalkulator-python
